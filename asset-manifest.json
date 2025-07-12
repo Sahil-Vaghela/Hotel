@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sahil-Vaghela/Hotel.git/static/css/main.38f8cf97.css",
-    "main.js": "/Sahil-Vaghela/Hotel.git/static/js/main.0cc063f0.js",
-    "static/js/453.1589b360.chunk.js": "/Sahil-Vaghela/Hotel.git/static/js/453.1589b360.chunk.js",
-    "index.html": "/Sahil-Vaghela/Hotel.git/index.html",
-    "main.38f8cf97.css.map": "/Sahil-Vaghela/Hotel.git/static/css/main.38f8cf97.css.map",
-    "main.0cc063f0.js.map": "/Sahil-Vaghela/Hotel.git/static/js/main.0cc063f0.js.map",
-    "453.1589b360.chunk.js.map": "/Sahil-Vaghela/Hotel.git/static/js/453.1589b360.chunk.js.map"
+    "main.css": "/Sahil-Vaghela/static/css/main.38f8cf97.css",
+    "main.js": "/Sahil-Vaghela/static/js/main.74c46d58.js",
+    "static/js/453.1589b360.chunk.js": "/Sahil-Vaghela/static/js/453.1589b360.chunk.js",
+    "index.html": "/Sahil-Vaghela/index.html",
+    "main.38f8cf97.css.map": "/Sahil-Vaghela/static/css/main.38f8cf97.css.map",
+    "main.74c46d58.js.map": "/Sahil-Vaghela/static/js/main.74c46d58.js.map",
+    "453.1589b360.chunk.js.map": "/Sahil-Vaghela/static/js/453.1589b360.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38f8cf97.css",
-    "static/js/main.0cc063f0.js"
+    "static/js/main.74c46d58.js"
   ]
 }
