@@ -1,0 +1,40 @@
+.nmain{
+    height: 5%;
+    width: 95%;
+    border: 20px solid rgba(255, 255, 255, 0.073);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: rgba(255, 255, 255, 0.767);
+}
+
+ul{
+    height: 100%;
+    width: 50%;
+    /* border: 2px solid red; */
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    color: rgb(255, 141, 160);
+}
+
+.ul1{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid red;  */
+    color: rgb(255, 141, 160);
+    display: flex;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+}
+
+.ul2 button{
+    padding: 10px;
+    background-color: rgb(255, 141, 160);
+    color: white;
+}
